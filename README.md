@@ -32,7 +32,7 @@ php run.php
 ### Installation for Windows
 First install Ruby and Git Bash on the official website below:
 - [**Git Bash**](https://git-scm.com/downloads)
-- [**PHP**](https://www.php.org/downloads/)
+- [**PHP**](https://www.php.net/downloads.php)
 
 If everything is installed, please open one of the CMD, Windows PowerShell, or Git Bash and enter the command below:
 ```bash
