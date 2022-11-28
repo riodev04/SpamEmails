@@ -1,6 +1,6 @@
 # SpamEmails
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 [![Youtube](https://img.shields.io/badge/Youtube-Rio--Dev-red?style=for-the-badge&logo=youtube)](https://youtube.com/@riodev)
 
