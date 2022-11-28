@@ -30,7 +30,7 @@ php run.php
 ```
 
 ### Installation for Windows
-First install Ruby and Git Bash on the official website below:
+First install PHP and Git Bash on the official website below:
 - [**Git Bash**](https://git-scm.com/downloads)
 - [**PHP**](https://www.php.net/downloads.php)
 
